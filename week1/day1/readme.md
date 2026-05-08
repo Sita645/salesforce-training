@@ -53,6 +53,16 @@ Lead → Contact → Opportunity → Customer
 
 ---
 
+# 📸 Screenshots
+
+## Trailhead Modules Completed
+![Trailhead](trailhead.png)
+
+## CRM Learning
+![CRM](crm-account.png)
+![CRM](crm-oppurtunity.png)
+---
+
 # 🛠 Tools Used
 
 - Salesforce Trailhead

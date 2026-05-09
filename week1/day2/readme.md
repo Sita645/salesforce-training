@@ -180,13 +180,10 @@ Salesforce allows developers to extend functionality using Apex programming, API
 # 📸 Screenshots
 
 ## Trailhead Modules Completed
-![Trailhead](trailhead-completed.png)
+![Trailhead](09-badges.png)
 
 ## Salesforce Platform Basics
 ![Platform](platform-basics.png)
-
-## Development Basics
-![Development](development-basics.png)
 
 ---
 
